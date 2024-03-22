@@ -13,3 +13,4 @@ spec:
     - ./domains/backstage-domain.yaml
     - https://github.com/julian-hj/tanzu-java-web-app/blob/main/catalog/catalog-info.yaml
     - https://github.com/julian-hj/tanzu-java-web-app/blob/kubernetes-id/catalog/catalog-info.yaml
+    - https://github.com/julian-hj/tanzu-java-web-app/blob/namespaced-entity/catalog/catalog-info.yaml
